@@ -1,0 +1,3 @@
+x = "mak"
+
+print(x)
